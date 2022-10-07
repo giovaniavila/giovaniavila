@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Giovani Avila
+# Hi there, welcome to my Github profile![fogo](https://user-images.githubusercontent.com/112128418/194660542-32b7a145-3f9e-42d3-bdcb-75d07a5c0105.gif)
 <p>𝘛𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘯𝘰 𝘳𝘶𝘭𝘦𝘴 𝘰𝘧 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦 𝘧𝘰𝘳 𝘢 𝘤𝘢𝘴𝘵𝘭𝘦 𝘪𝘯 𝘵𝘩𝘦 𝘤𝘭𝘰𝘶𝘥𝘴.</p>
 <p>.📚 system analysis and development student</p>
 <p>.🌱 I’m currently learning HTML, CSS and Python</p>
@@ -14,10 +14,12 @@
 </p>
 <br>
 <h2>👁‍🗨 My stats </h2>
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniavila&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovaniavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+<p>
+    <div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniavila&layout=compact&langs_count=7&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovaniavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        </div>
+</p>
 <br>
 <h2>👻 Contact </h2>
 <p>
@@ -25,7 +27,6 @@
 <a href = "giovanicavila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
           
-
 
 
 ![Snake animation](https://github.com/giovaniavila/giovaniavila/blob/output/github-contribution-grid-snake.svg)
