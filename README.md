@@ -1,7 +1,7 @@
 # Hi there, welcome to my Github profile![fogo](https://user-images.githubusercontent.com/112128418/194660542-32b7a145-3f9e-42d3-bdcb-75d07a5c0105.gif)
 <p>𝘛𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘯𝘰 𝘳𝘶𝘭𝘦𝘴 𝘰𝘧 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦 𝘧𝘰𝘳 𝘢 𝘤𝘢𝘴𝘵𝘭𝘦 𝘪𝘯 𝘵𝘩𝘦 𝘤𝘭𝘰𝘶𝘥𝘴.</p>
 <p>.📚 system analysis and development student</p>
-<p>.🌱 I’m currently learning HTML, CSS and Python</p>
+<p>.🌱 I’m currently learning HTML, CSS and JavaScript</p>
 <br>
 <h2>🛠 Tech Stack </h2>
 <p>
