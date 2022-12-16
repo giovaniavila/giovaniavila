@@ -16,8 +16,8 @@
 <br>
 <h2>👁‍🗨 My stats </h2>
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniavila&layout=compact&langs_count=7&theme=maroongold"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovaniavila&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniavila&layout=compact&langs_count=7&theme=maroongold"/>
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=giovaniavila&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 <h2>👻 Contact </h2>
