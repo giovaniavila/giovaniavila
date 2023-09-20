@@ -4,7 +4,7 @@
 <p>𝘛𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘯𝘰 𝘳𝘶𝘭𝘦𝘴 𝘰𝘧 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦 𝘧𝘰𝘳 𝘢 𝘤𝘢𝘴𝘵𝘭𝘦 𝘪𝘯 𝘵𝘩𝘦 𝘤𝘭𝘰𝘶𝘥𝘴.</p>
 
 ![Rectangle 4](https://github.com/giovaniavila/giovaniavila/assets/112128418/2521fa52-043a-4cf7-a811-0cd647454b70)⠀System Analysis and development student <br> <br>
-![Rectangle 4](https://github.com/giovaniavila/giovaniavila/assets/112128418/2521fa52-043a-4cf7-a811-0cd647454b70)⠀I’m currently learning HTML, CSS, JavaScript and NodeJS <br> <br>
+![Rectangle 4](https://github.com/giovaniavila/giovaniavila/assets/112128418/2521fa52-043a-4cf7-a811-0cd647454b70)⠀I’m currently learning JavaScript, React and Typescript<br> <br>
 ![Rectangle 4](https://github.com/giovaniavila/giovaniavila/assets/112128418/2521fa52-043a-4cf7-a811-0cd647454b70)⠀UX/UI design enjoyer
 
 
@@ -22,7 +22,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35"/>
 </p>
 <br>
 <Br>
