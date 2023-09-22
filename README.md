@@ -1,6 +1,7 @@
 <img color="#446754" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=446754&height=120&section=header"/>
 
-# Hi there, welcome to my Github profile ![fogo](https://user-images.githubusercontent.com/112128418/194660542-32b7a145-3f9e-42d3-bdcb-75d07a5c0105.gif)
+# Hi there, welcome to my Github profile  ![teagif-cute (1)](https://github.com/giovaniavila/giovaniavila/assets/112128418/cfd6b637-2203-4437-baf5-b8fa8a248216)
+
 <p>𝘛𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘯𝘰 𝘳𝘶𝘭𝘦𝘴 𝘰𝘧 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦 𝘧𝘰𝘳 𝘢 𝘤𝘢𝘴𝘵𝘭𝘦 𝘪𝘯 𝘵𝘩𝘦 𝘤𝘭𝘰𝘶𝘥𝘴.</p>
 
 ![Rectangle 4](https://github.com/giovaniavila/giovaniavila/assets/112128418/2521fa52-043a-4cf7-a811-0cd647454b70)⠀System Analysis and development student <br> <br>
